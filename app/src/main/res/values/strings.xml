@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoCoder(GSN)</string>
+    <string name="startTitle">GeoCoder</string>
+    <string name="title_activity_address">Address</string>
+    <string name="title_activity_starting">GSN</string>
+    <string name="title_activity_show_location">showLocation</string>
+    <string name="title_activity_physical_address">Address</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
